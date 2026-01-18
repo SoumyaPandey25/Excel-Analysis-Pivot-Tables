@@ -1,4 +1,4 @@
-# Task-2-Excel-Analysis-Pivot-Table
+# Excel-Analysis-Pivot-Table
 
 # 📊 Overview
 
