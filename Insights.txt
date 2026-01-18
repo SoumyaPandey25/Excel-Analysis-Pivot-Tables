@@ -1,0 +1,5 @@
+1. Technology category contributes the highest total sales.
+2. West region is the top-performing region based on total sales.
+3. Consumer segment generates more sales compared to Corporate and Home Office.
+4. Some sub-categories contribute disproportionately to overall sales.
+5. Certain regions are underperforming and need focused business strategies.
